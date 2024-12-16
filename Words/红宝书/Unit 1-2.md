@@ -47,7 +47,7 @@
 42. bonus n. 奖金，红利，补贴
 43. boom n. 繁荣期 v. 激增；迅速发展，繁荣
 44. boost v. 增加，提高 n. 增加
-45. verbal adj. 用文字的；口头的
+45. verbal adj. 用文字的；口头的；动词的
 46. verdict n. 裁定；意见
 47. verify vt. 证明，证实
 48. verse n. 诗，诗句
